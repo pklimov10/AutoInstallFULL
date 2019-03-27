@@ -1,0 +1,4 @@
+---
+download_folder: /opt
+java_name: "{{download_folder}}/jdk1.8.0_201"
+java_archive: "{{download_folder}}/jdk-8u201-linux-x64.tar.gz"
