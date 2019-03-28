@@ -1,0 +1,4 @@
+---
+- hosts: PG
+  roles:
+    - Postgres
